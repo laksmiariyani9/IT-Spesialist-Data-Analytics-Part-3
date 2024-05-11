@@ -1,14 +1,14 @@
 # Data Visualization Using Python
 
-## Basic Of Visualization and communication
+## Basic of Visualization and Communication
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Additionally, it provides an excellent way for employees or business owners to present data to non-technical audiences without confusion.
 
 ### 4 Reasons Use Chart
 **Comparison**
-1. Bar chart vertical (Compare among categories Few category) : A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
-2. Bar chart horizontal (Has long item label) : A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
-3. Line Chart (Compare over time) : Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
-4. Multiple Line Chart (Two or more categories) : A multi-line chart is a basic line chart with one or more additional lines that represent comparison trends.
+1. _Bar chart vertical (Compare among categories Few category)_ : A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
+2. _Bar chart horizontal (Has long item label)_ : A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
+3. _Line Chart (Compare over time)_ : Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
+4. _Multiple Line Chart (Two or more categories)_ : A multi-line chart is a basic line chart with one or more additional lines that represent comparison trends.
 
 **Composition & Comparison**
 1. Stacked bar chart (show components in an category) : The stacked bar chart (aka stacked bar graph) extends the standard bar chart from looking at numeric values across one categorical variable to two. Each bar in a standard bar chart is divided into a number of sub-bars stacked end to end, each one corresponding to a level of the second categorical variable.
