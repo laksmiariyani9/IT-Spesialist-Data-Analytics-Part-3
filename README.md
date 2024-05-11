@@ -32,6 +32,7 @@ Data visualization is the graphical representation of information and data. By u
  
 ## CRISP-DM
 CRISP-DM stands for **Cross-Industry Standard Process for Data Mining**. It is a cyclical process that provides a structured approach to planning, organizing, and implementing a data mining project. The process consists of six major phases:
+
 **1. Business Understanding**
 - It has a quite vital part. Business understanding requires knowledge of the business objects, how to build or obtain data, and how to match modeling goals to business goals; so that the best model can be built. Activities carried out include: define business objectives, assessing the current scenario, setting data mining targets, and creating a project plan. 
 
