@@ -5,11 +5,11 @@ Data visualization is the graphical representation of information and data. By u
 
 ### 4 Reasons Use Chart
 1. Comparison
-  - Bar chart vertical (Compare among categories Few category)
-    - A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
-
-  - Bar chart horizontal (Has long item label)
-    - A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
+       - Bar chart vertical (Compare among categories Few category)
+        - A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
+    
+      - Bar chart horizontal (Has long item label)
+        - A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
 
   - Line Chart (Compare over time)
     - Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
