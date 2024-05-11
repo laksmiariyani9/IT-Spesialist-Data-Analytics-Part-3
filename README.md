@@ -5,22 +5,32 @@ Data visualization is the graphical representation of information and data. By u
 
 ### 4 Reasons Use Chart
 **Comparison**
-1. _Bar chart vertical (Compare among categories Few category)_ : A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
-2. _Bar chart horizontal (Has long item label)_ : A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
-3. _Line Chart (Compare over time)_ : Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
-4. _Multiple Line Chart (Two or more categories)_ : A multi-line chart is a basic line chart with one or more additional lines that represent comparison trends.
+1. Bar chart vertical (Compare among categories Few category)
+   - A bar graph, as you might guess, uses bars to convey data. The longer the bar, the greater the value. Say a bar graph shows sales per store for the past quarter.
+2. Bar chart horizontal (Has long item label)
+   - A horizontal bar chart is a graph in the form of rectangular bars. It's a data visualization technique. The length of these bars is proportional to the values they represent. The bar chart title indicates which data is represented.
+3. Line Chart (Compare over time)
+   - Line graphs typically are used to show changes or trends in continuous data over a period of time, with a line connecting the dots that represent the different values. For instance, in a line chart showing a company's stock price over the past week, a line would connect the dots that visualize the change in price each day.
+4. Multiple Line Chart (Two or more categories)
+   - A multi-line chart is a basic line chart with one or more additional lines that represent comparison trends.
 
 **Composition & Comparison**
-1. Stacked bar chart (show components in an category) : The stacked bar chart (aka stacked bar graph) extends the standard bar chart from looking at numeric values across one categorical variable to two. Each bar in a standard bar chart is divided into a number of sub-bars stacked end to end, each one corresponding to a level of the second categorical variable.
-2. Stacked 100% bar chart (focus on contribution on each components) : A 100% stacked bar chart is an chart type designed to show the relative percentage of multiplei data seres in stacked bars, where the total (cumulative) of each stacked bar always equals 100%.
+1. Stacked bar chart (show components in an category)
+   - The stacked bar chart (aka stacked bar graph) extends the standard bar chart from looking at numeric values across one categorical variable to two. Each bar in a standard bar chart is divided into a number of sub-bars stacked end to end, each one corresponding to a level of the second categorical variable.
+2. Stacked 100% bar chart (focus on contribution on each components)
+   - A 100% stacked bar chart is an chart type designed to show the relative percentage of multiplei data seres in stacked bars, where the total (cumulative) of each stacked bar always equals 100%.
 
 **Composition**
-1. Pie Chart (Simple share of total) : A pie chart is one way to display how various parts make up a whole or 100 percent. Each data point is represented by a "slice" of the pie; the slice's size correlates to the percentage of the whole it comprises.
-2. Tree Map Chart (Absolute difference matters) : A treemap chart provides a hierarchical view of your data and makes it easy to spot patterns, such as which items are a store's best sellers. The tree branches are represented by rectangles and each sub-branch is shown as a smaller rectangle.
+1. Pie Chart (Simple share of total)
+   - A pie chart is one way to display how various parts make up a whole or 100 percent. Each data point is represented by a "slice" of the pie; the slice's size correlates to the percentage of the whole it comprises.
+2. Tree Map Chart (Absolute difference matters)
+   - A treemap chart provides a hierarchical view of your data and makes it easy to spot patterns, such as which items are a store's best sellers. The tree branches are represented by rectangles and each sub-branch is shown as a smaller rectangle.
 
 **Relationship**
-1. Scatter Plot : A scatter plot identifies a possible relationship between changes observed in two different sets of variables. It provides a visual and statistical means to test the strength of a relationship between two variables.
-2. Spatial Map : Spatial mapping makes it possible to place objects on real surfaces. This helps anchor objects in the user's world and takes advantage of real world depth cues. 
+1. Scatter Plot
+   - A scatter plot identifies a possible relationship between changes observed in two different sets of variables. It provides a visual and statistical means to test the strength of a relationship between two variables.
+2. Spatial Map
+   - Spatial mapping makes it possible to place objects on real surfaces. This helps anchor objects in the user's world and takes advantage of real world depth cues. 
 
 
 ## Data Visualization using Python
